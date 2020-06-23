@@ -1,5 +1,6 @@
 # copy from zossebart, see lineked git
 # added "footWay_penalty" because I it was routing a lot over footways
+#
 # mountainbike profile by zossebart
 # v1.1.2
 # see https://github.com/zossebart/brouter-mtb for information and releases

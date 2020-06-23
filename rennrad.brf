@@ -1,5 +1,6 @@
 # copy from default profile
 # adjusted surfacepenalty and increased cycleway penalty
+#
 # A fastbike could be a racing bike or a speed pedelec.
 # But also at night or in rainy weather you might want
 # to fallback to this one.
